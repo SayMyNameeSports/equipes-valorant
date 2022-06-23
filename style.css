@@ -1,0 +1,104 @@
+/* menu principal supeior  */
+
+
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+    border-style: ridge;
+    border-color: red;
+  }
+
+  li {
+
+    float: left;
+
+  }
+
+  li a {
+    margin-inline-start:230px;
+
+    border-radius: 20px;
+    border-style: double;
+    border-color: aliceblue;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #111;
+  }
+
+    /*body*/
+
+    body{
+        background-color: rgba(17, 17, 17, 0.937);
+        color: antiquewhite;
+    }
+
+    /*header*/
+    header{
+        background-color: #0F1821;
+    }
+    /* >>  banner  << */
+    header img{
+        width: 720px;
+        margin-inline-start:425px;
+    }
+
+    /*main*/
+   main{
+    background-color: #111;
+    margin-left: 525px;
+    text-align: center;
+    max-height: 2500px;
+    width: 550px;
+    border-radius: 30px;
+
+   }
+
+
+
+/* >>  icones redes-sociais  << */
+
+
+
+/* >>  valorant_noticias  << */
+
+
+/* >>  equipe_valorant  << */
+.valorant_noticias{
+
+}
+.team_omega{
+
+  margin: 1%;
+
+}
+
+.team_omega img{
+  margin-right:17px;
+  width: 80px;
+  border-radius: 50px;
+
+}
+
+.red_bio a{
+color: aliceblue;
+padding-left:2.5%;
+padding-right: 31px;
+text-align: center;
+}
+
+/* >>  explicação  << */
+
+/*----------------------------------------------------*/
+
+/* >>  dispositivos móveis  << */
